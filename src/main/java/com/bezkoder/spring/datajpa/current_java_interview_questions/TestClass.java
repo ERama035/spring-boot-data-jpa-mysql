@@ -6,9 +6,10 @@ import java.util.stream.Collectors;
 // https://gist.github.com/greekykhs/4303039a84bda3e8e809264bc12d4d3e
 // https://www.javaguides.net/2023/10/sort-employee-by-name-and-salary-in-java-8.html
 // https://javaconceptoftheday.com/solving-real-time-queries-using-java-8-features-employee-management-system/
-public class TestClass implements Runnable {
+public class TestClass {
 
 
+    /* 
     Map<Integer, List<com.bezkoder.spring.datajpa.accounts.Employee>> sortedBySalaryGt(List<com.bezkoder.spring.datajpa.accounts.Employee> employees) {
 
          Map<Integer, List<com.bezkoder.spring.datajpa.accounts.Employee>> groupEmpsByDeptId =
@@ -54,6 +55,8 @@ public class TestClass implements Runnable {
     public void run() {
         System.out.println("Hello world");
     }
+
+    */
 
     public static void main1(int[] nums, int target) {
         //int[] nums = {1,2,3,4,5,6,7,8};
