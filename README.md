@@ -104,3 +104,28 @@ Run both Back-end & Front-end in one place:
 mvn spring-boot:run
 ```
 
+Max Consecutive Ones III
+
+
+Solution:
+leetcode 76: 
+https://github.com/Eric-programming/CodeSolution/tree/master/src/TwoPointers
+
+https://www.youtube.com/watch?v=Plu192kcEmc&t=1057s&ab_channel=DeveloperDocs
+
+leetcode 643:
+https://www.youtube.com/watch?v=56TxHMG0qhQ&t=660s&ab_channel=NikhilLohia
+https://github.com/nikoo28/java-solutions/blob/master/src/main/java/leetcode/easy/MaximumAverageSubarrayI.java
+
+
+
+leetcode 75 solutions:
+https://www.youtube.com/playlist?list=PL-Jc9J83PIiEA7f_cI_v6oqh_EYWboj6S
+
+leetcode : just for understanding: 
+https://www.youtube.com/playlist?list=PL-Jc9J83PIiEA7f_cI_v6oqh_EYWboj6S
+
+https://leetcode.com/discuss/study-guide/3630462/Top-20-Sliding-Window-Problems-for-beginners
+
+explains with leetcode 75 problems or 150 : but takes 2 for loops
+https://www.youtube.com/playlist?list=PL-Jc9J83PIiEA7f_cI_v6oqh_EYWboj6S
