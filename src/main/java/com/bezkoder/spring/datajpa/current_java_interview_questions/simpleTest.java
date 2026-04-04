@@ -1,4 +1,4 @@
-package com.bezkoder.spring.datajpa;
+package com.bezkoder.spring.datajpa.current_java_interview_questions;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

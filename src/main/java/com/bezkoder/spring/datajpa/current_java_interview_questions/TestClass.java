@@ -1,4 +1,4 @@
-package com.bezkoder.spring.datajpa.accounts;
+package com.bezkoder.spring.datajpa.current_java_interview_questions;
 
 import java.util.*;
 import java.util.stream.Collectors;
