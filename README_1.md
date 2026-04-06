@@ -2,20 +2,19 @@ java coding questions and Simple questions
 -----------------------------------------------------------
 1) Find the first non-repeating character or the longest palindrome in a string.
 2) anagram
-3) remove string duplicates 
+3) remove string duplicates  :: Java program to remove duplicates characters from given String. 
 4) string reversal
-5) Find the second highest or second minimum number in an array.
-6) Find the kth largest element in an array.
-7) Reverse a singly linked list or print it in reverse order.
-8) Merge two sorted arrays without using extra space.
-9) Implement a thread-safe HashMap without using ConcurrentHashMap (e.g., using Collections.synchronizedMap).
-10) Grouping & Aggregation: Use Java Streams to group employees by department and fetch the highest salary per department.
-11) Java program to remove duplicates characters from given String. 
-12) Program Remove the second highest element from the HashMap. 
-13) Java program to Generate prime numbers between 1 & given number 
-14) How to find the missing values from a sorted array. 
-15) Java program to input name, middle name and surname of a person and print only the initials. 
-16) Program to Print all Treemap elements? 
+5) Find the second highest or second minimum number in an array 
+6) Program Remove the second highest element from the HashMap. 
+7) Find the kth largest element in an array.
+8) How to find the missing values from a sorted array. 
+9) Java program to input name, middle name and surname of a person and print only the initials. 
+10) Java program to Generate prime numbers between 1 & given number 
+11) Merge two sorted arrays without using extra space.
+12) java stream api :: Grouping & Aggregation: Use Java Streams to group employees by department and fetch the highest salary per department.
+13) Program to Print all Treemap elements? 
+14) Reverse a singly linked list or print it in reverse order.
+15) Implement a thread-safe HashMap without using ConcurrentHashMap (e.g., using Collections.synchronizedMap).
 
 
 Max Consecutive Ones III
